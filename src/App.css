@@ -1,0 +1,15 @@
+.header{
+    background-color: black;
+    color: white;
+    width: max-content;
+    padding: 50px;
+}
+.country{
+    background-color: black;
+    color: white;
+    padding: 20px 50px;
+    width: fit-content;
+    font-weight: 600;
+    font-family: 'Poppins';
+    margin-bottom: 10px;
+}
